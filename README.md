@@ -12,5 +12,5 @@ Here's a walkthrough of implemented user stories:
 
 Video Walkthrough
 
-![Farmers Market Finder Demo](demo.gif)
+![Farmers Market Finder Demo](Demo.gif)
 
